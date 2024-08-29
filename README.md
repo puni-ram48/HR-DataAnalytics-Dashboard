@@ -1,6 +1,6 @@
 ## **HR Analytics Dashboard: Empowering Workforce Management Through Data-Driven Insights**
 
-<img src="" width="800" height="466">
+<img src="hr.png" width="800" height="466">
 
 ### **Industry Context**
 In today’s competitive business environment, effective workforce management is crucial for organizational success. 
