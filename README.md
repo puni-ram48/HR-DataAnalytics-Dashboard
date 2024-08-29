@@ -1,5 +1,7 @@
 ## **HR Analytics Dashboard: Empowering Workforce Management Through Data-Driven Insights**
 
+<img src="" width="800" height="466">
+
 ### **Industry Context**
 In today’s competitive business environment, effective workforce management is crucial for organizational success. 
 The HR Analytics Dashboard serves as a powerful tool for Human Resources departments to monitor, analyze, and optimize employee-related metrics,
