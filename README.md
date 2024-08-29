@@ -43,19 +43,21 @@ Before conducting the analysis, several preprocessing steps were taken to ensure
 
 ### **Insights & Actionable Outcomes** 💡
 
-- The company has 1,470 total employees, with an active workforce of 1,233 and an attrition rate of 16.12%, indicating a moderate turnover. The average age of 36.92 years reflects a mature, mid-career workforce, crucial for planning retention and development strategies.
+- The company has **1,470** total employees, with an active workforce of **1,233** and an **attrition** rate of **16.12%**, indicating a moderate turnover. The average age of 36.92 years reflects a mature, mid-career workforce, crucial for planning retention and development strategies.
 
 #### **Attrition Analysis** 📉
+
 - **Department-wise Attrition:**
   - **R&D** had the highest attrition rate at **56.12%**, while **HR** had the lowest at **5.06%**.
   - **Sales** had a significant attrition rate of **38.82%**, indicating potential issues in employee retention within the department.
 
 - **Gender-based Attrition:**
-  - Attrition rates varied by gender across different age groups, with higher female attrition in the 25-34 age group (62% female vs. 38% male).
+  - Attrition rates varied by gender across different age groups, with higher male attrition in the **25-34** age group (62% male vs. 38% female).
 
 ---
 
 #### **Job Satisfaction** 😊
+
 - **Satisfaction Ratings by Job Role:**
   - **Research Scientists** and **Sales Executives** had higher job satisfaction ratings, suggesting better alignment of job roles with employee expectations.
   - **Laboratory Technicians** displayed varied satisfaction levels, indicating potential areas for improvement.
@@ -63,6 +65,7 @@ Before conducting the analysis, several preprocessing steps were taken to ensure
 ---
 
 #### **Employee Distribution** 🧑‍🤝‍🧑
+
 - **Age Group Distribution:**
   - The largest proportion of employees fell within the **25-34** age group, followed by those aged **35-44**. This indicates a relatively young workforce, with a small proportion of employees aged over 55.
 
